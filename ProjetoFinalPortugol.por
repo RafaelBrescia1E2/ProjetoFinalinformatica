@@ -36,7 +36,7 @@ programa {
           
         }
         se (saque > saldo){
-          escreva ("Não autorizado!\n")
+          escreva ("NÃ£o autorizado!\n")
           escreva("Aperte ENTER para continuar")
           leia (controle)
           limpa()
@@ -86,7 +86,7 @@ programa {
           escreva()
          }
          senao{
-          escreva ("Não autorizad!")
+          escreva ("NÃ£o autorizado!")
          }
 
 
